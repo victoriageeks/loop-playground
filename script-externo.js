@@ -1,3 +1,5 @@
+// NOTA: No hace falta tocar nada de aquí...son las funciones para dibujar los círculos del ejercicio 'mi-script.js'
+
 {
     let xIni = 50;
     let yIni = 50;

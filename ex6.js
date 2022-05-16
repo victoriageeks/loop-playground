@@ -1,5 +1,5 @@
 /**
- * Bucle condicionado
+ * Bucle condicionado.
  * 
  * Ejecuta el script y observa que sucede.
  * ¿Cuantas veces se ejecuta el código del bucle?
@@ -11,9 +11,17 @@
 
  let numeroFinal = 5;
 
- for (var i=-5;i<numeroFinal; i++) {
+ for (let i=-5;i<numeroFinal; i++) {
     console.log("Voy a ejecutar el condicional para el número: " + i)
     // Modificar a partir de aquí
     console.log("Soy un número positivo!")
     console.log("Soy un núemro negativo!")
 }
+
+/**
+ * Pregunta adicional BONUS.
+ * 
+ * - En este bucle, qué valor tiene la VARIABLE DE INICIALIZACIóN?
+ * - ¿Cuantas iteraciones ocurren en este bucle? ¿1? ¿5?
+ * - ¿Cuantas instrucciones se ejecutan en CADA iteración de este bucle? ¿1? ¿2?
+ */

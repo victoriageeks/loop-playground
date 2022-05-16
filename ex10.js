@@ -1,8 +1,7 @@
 /**
  * Mi dia a dia
  * 
- * Vamos a escribir un programa que muestre, para cada hora del dia, que actividad realiza un sim en Villa Lobo.
- * Muestra qué actividad realiza la persona por el terminal PARA CADA HORA.
+ * Vamos a escribir un programa que muestre, para cada hora del dia, que actividad realiza un sim en Villa Lobo.  Muestra qué actividad realiza la persona por el terminal PARA CADA HORA.
  * 
  * 1. A las 8, el sim se despierta
  * 2. A las 9, el sim desayuna

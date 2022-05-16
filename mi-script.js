@@ -2,6 +2,7 @@
  * Ejercicio final
  * 
  * Disponemos de un función, dibujarCirculo() ; que pinta en nuestro HTML un círculo.
+ * Puede que aún no sepas que es una función, no te preocupes. Consideralo como una herramienta para ejecutar una acción.
  * 
  * Escribe un bucle que pinte por pantalla exactamente el número de cícrculos: (numeroFinal-numeroInicial).
  * Por ejemplo, para la configuración inicial, debería pintar 10 círculos. Hazlo usando un bucle WHILE

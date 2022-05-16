@@ -4,8 +4,7 @@
  * ¿Sabrías decir porque?
  * 
  * ---------------------------------------------------
- * Una vez lo averigues, arreglalo para que el bucle se ejecute exactamente 10 veces. 
- * Reestricción: SOLO puedes cambiar el valor de la variable 'veces' para conseguirlo
+ * Una vez lo averigues, arreglalo para que el bucle se ejecute exactamente 10 veces.  * Reestricción: SOLO puedes cambiar el valor de la variable 'veces' para conseguirlo
  */
 
  let veces = 5;

@@ -14,3 +14,11 @@ while (i<=veces) {
     console.log("Ejecuto!")
     i++
 }
+
+/**
+ * Pregunta BONUS: 
+ * 
+ * 
+ * - ¿Qué valor BOLEANO toma la expresión i<=veces LA PRIMERA vez que se evalua?
+ * - ¿Cuales son los primeros valores de 'i' y de 'veces' la expresión 'i<=veces' vale false ?
+ */
