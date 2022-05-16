@@ -26,5 +26,29 @@
 let hora_actual = 8;
 let hora_dormir = 24;
 
+switch(hora_actual){
+    case 1:
+        console.log("A las 8, el sim se despierta.");
+        break;
+    case 2:
+        console.log("A las 9, el sim desayuna.");
+        break;
+    case 3:
+        console.log("De 10 a 16, el sim estudia Front End");
+        break;
+    case 4:
+        console.log("A las 17, siesta");
+        break;
+    case 5:
+        console.log("De 18 a 22, el sim tiene tiempo libre");
+        break;
+    case 6:
+        console.log("A las 22, el sim cena");
+        break;
+    case 7:
+        console.log("A las 23, el sim se va a dormir");
+        break;
+}
+
 
 
